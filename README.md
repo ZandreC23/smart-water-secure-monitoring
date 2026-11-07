@@ -69,7 +69,7 @@ An automated test suite (Python `unittest`, no extra install) covers the secure 
 python -m unittest -v tests.test_capstone
 ```
 
-All ten test cases pass. See the Implementation & Testing report for the test plan, results, and defect log.
+All twelve test cases pass. See the Implementation & Testing report for the test plan, results, and defect log.
 
 ## Project structure
 
