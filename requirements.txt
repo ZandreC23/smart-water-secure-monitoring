@@ -1,0 +1,10 @@
+pandas>=1.5
+numpy>=1.23
+scikit-learn>=1.2
+matplotlib>=3.6
+seaborn>=0.12
+cryptography>=39.0
+
+# Optional: only needed to run the LSTM autoencoder variant
+# (src/lstm_autoencoder.py). The default pipeline runs without it.
+# tensorflow>=2.12
