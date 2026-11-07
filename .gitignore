@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+Ponds data.csv
+Aquaponds Dataset.csv
+Fish Ponds.csv
+Ponds.csv
+Ponds1.csv
